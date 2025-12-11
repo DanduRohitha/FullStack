@@ -1,0 +1,11 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, Java in Visual Studio Code!");
+        
+        // sample logic
+        int a = 10, b = 20;
+        int sum = a + b;
+
+        System.out.println("Sum = " + sum);
+    }
+}
